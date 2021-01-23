@@ -1,3 +1,4 @@
+### 体验地址 <https://we11cheng.github.io/xiaomi/>
 刷小米步数同步微信步数教程
 <p>1.点击下载<a href="https://a.app.qq.com/o/simple.jsp?pkgname=com.xiaomi.hm.health" class="STYLE2">小米运动APP</a></br>
             2.从应用商店下载小米运动App，打开软件并选择手机号登录</br>
